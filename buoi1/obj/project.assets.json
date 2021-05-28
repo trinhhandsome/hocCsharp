@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\buoi1\\buoi1\\buoi1.csproj",
-      "projectName": "buoi1",
-      "projectPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\buoi1\\buoi1\\buoi1.csproj",
+      "projectUniqueName": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\buoi1\\buoi1\\khoahoc_C.csproj",
+      "projectName": "khoahoc_C",
+      "projectPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\buoi1\\buoi1\\khoahoc_C.csproj",
       "packagesPath": "C:\\Users\\May cua tAo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\May cua tAo\\Desktop\\bài tập C#\\buoi1\\buoi1\\obj\\",
       "projectStyle": "PackageReference",
